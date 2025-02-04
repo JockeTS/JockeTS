@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hi, I'm Jocke T. Sjölin
 
-<!--
-**JockeTS/JockeTS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* 🎓 I'm a former Web Programming student at BTH.
 
-Here are some ideas to get you started:
+* 🧑‍💻️️ I enjoy full stack web development, with a special interest in certain technologies:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    * JavaScript, Python
+    * Node, Express
+    * MongoDB
+    * Svelte
+
+* 🛠️ I'm currently building an application for learning languages.
+
+* 🔒 I'm also interested in automated tools for improving application security, such as vulnerability scanners like ZAP from OWASP. 
+
+* 🤖 I'm trying to learn more about ways to incorporate AI into the programming process.
+
+* 🔍 I'm currently looking for a junior web developer role. 
+
+* 📪 You can reach me at <jocke.t.sjolin@gmail.com>.
