@@ -2,7 +2,7 @@
 
 * 🎓 I'm a former Web Programming student at BTH.
 
-* 🧑‍💻️️ I enjoy full stack web development, with a special interest in certain technologies:
+* 🧑‍💻️️ I enjoy full-stack web development, with a special interest in certain technologies:
 
     * JavaScript, Python
     * Node, Express
