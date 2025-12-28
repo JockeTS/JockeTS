@@ -1,20 +1,18 @@
-## Hi, I'm Jocke T. Sjölin
+# Hi, I'm Jocke T. Sjölin
 
-* 🎓 I'm a former Web Programming student at BTH.
+* Web Programming gradute at BTH
 
-* 🧑‍💻️️ I enjoy full-stack web development, with a special interest in certain technologies:
+* Full-stack web developer, primarily interested in:
+   * JavaScript, React
+   * Node, Express
+   * PostgreSQL, MongoDB
 
-    * JavaScript, Python
-    * Node, Express
-    * MongoDB
-    * Svelte
+* Currently building a recursive task manager
 
-* 🛠️ I'm currently building an application for learning languages.
+* Interested in application security and automated tools (e.g., OWASP ZAP)
+  
+* Always exploring new ways to incorporate AI into development workflows
+  
+* Open to junior web developer roles
 
-* 🔒 I'm also interested in automated tools for improving application security, such as vulnerability scanners like ZAP from OWASP. 
-
-* 🤖 I'm trying to learn more about ways to incorporate AI into the programming process.
-
-* 🔍 I'm currently looking for a junior web developer role. 
-
-* 📪 You can reach me at <jocke.t.sjolin@gmail.com>.
+* Reach me at <jocke.t.sjolin@gmail.com>.
